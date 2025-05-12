@@ -1,0 +1,19 @@
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Datos reales
+data.csv
+*.csv
+!examples/*.csv
+
+# Scripts específicos
+download_jira_tickets_to_csv.py
+
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
