@@ -1,0 +1,11 @@
+IssueKey,Tipo,Estado,Prioridad,Creado,Resuelto,Resumen
+JIRA-1001,Bug,Done,High,2025-04-01T10:00:00Z,2025-04-03T14:30:00Z,"[TEAM1] Error al cargar datos en el dashboard"
+JIRA-1002,Task,Done,Medium,2025-04-02T09:15:00Z,2025-04-04T11:45:00Z,"[TEAM1] Implementar filtro por fecha en el dashboard"
+JIRA-1003,Story,In Progress,Medium,2025-04-05T08:30:00Z,,"[TEAM2] Añadir visualización de métricas por equipo"
+JIRA-1004,Bug,New,Highest,2025-04-06T14:20:00Z,,"[TEAM1] Crash al generar gráfico con datos vacíos"
+JIRA-1005,Task,Code Review,Low,2025-04-07T11:10:00Z,,"[TEAM3] Refactorizar módulo de procesamiento de datos"
+JIRA-1006,Bug,Done,Medium,2025-04-08T16:45:00Z,2025-04-09T10:30:00Z,"[TEAM2] Formato incorrecto en exportación CSV"
+JIRA-1007,Story,In Progress,High,2025-04-10T09:00:00Z,,"[TEAM1] Integración con API de Jira para actualización automática"
+JIRA-1008,Task,Done,Low,2025-04-12T13:25:00Z,2025-04-15T17:00:00Z,"[TEAM3] Documentar uso del dashboard para nuevos usuarios"
+JIRA-1009,Bug,Blocked,High,2025-04-13T15:30:00Z,,"[TEAM2] Incompatibilidad con Internet Explorer 11"
+JIRA-1010,Story,New,Medium,2025-04-15T10:45:00Z,,"[TEAM1] Implementar sistema de notificaciones para tickets críticos"
